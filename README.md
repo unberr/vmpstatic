@@ -1,3 +1,4 @@
+![vmpstatic logo](logo.jpeg)
 # vmpstatic
 
 **Static VMProtect triage and PE layout reconstruction.** `vmpstatic` inspects PE files as
