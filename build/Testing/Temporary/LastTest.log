@@ -1,0 +1,19 @@
+Start testing: Nov 09 06:22 EET
+----------------------------------------------------------
+1/1 Testing: vmpstatic_tests
+1/1 Test: vmpstatic_tests
+Command: "/Users/david/Desktop/unpackers/vmpstatic/build/vmpstatic_tests"
+Directory: /Users/david/Desktop/unpackers/vmpstatic/build
+"vmpstatic_tests" start time: Nov 09 06:22 EET
+Output:
+----------------------------------------------------------
+all tests passed
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"vmpstatic_tests" end time: Nov 09 06:22 EET
+"vmpstatic_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 09 06:22 EET

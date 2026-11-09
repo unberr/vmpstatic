@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/vmpstatic_tests.dir/tests/test_main.cpp.o -o vmpstatic_tests  libvmpstatic_core.a /opt/homebrew/lib/libcapstone.dylib
