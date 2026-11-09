@@ -1,2 +1,0 @@
-vmpstatic_tests 1 0.3921
----
